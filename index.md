@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/lhood29/dv.github.io/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<head>
+  <meta> <meta name="facebook-domain-verification" content="vcq213xp0173pxm8xzaqnawwu3osrg" />
+<head>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
